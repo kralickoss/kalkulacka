@@ -7,14 +7,14 @@
 
 
 1. HTML Struktura:
-  - "<!DOCTYPE html>" definuje typ dokumentu.
-  - "<html lang="en">" zahajuje HTML dokument s nastavením jazyka na angličtinu.
-  - "<head>" obsahuje metadata a odkazy na externí soubory, jako je stylový list (style.css).
-  - "<body>" obsahuje vizuální obsah stránky.
+  - "!DOCTYPE html" definuje typ dokumentu.
+  - "html lang="en"" zahajuje HTML dokument s nastavením jazyka na angličtinu.
+  - "head" obsahuje metadata a odkazy na externí soubory, jako je stylový list (style.css).
+  - "body" obsahuje vizuální obsah stránky.
   
 2. Nadpis a Formulář:
-  - "<h1>" obsahuje nadpis "Kalkulačka".
-  - "<form>" obsahuje formulář pro zadání čísel a výběr operace.
+  - "h1" obsahuje nadpis "Kalkulačka".
+  - "form" obsahuje formulář pro zadání čísel a výběr operace.
   - Formulář odesílá data na stejný skript (<?php echo $_SERVER['PHP_SELF']; ?>) po stisknutí tlačítka "Spočítat".
     
 3. PHP Skript (skript.php):
