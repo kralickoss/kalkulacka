@@ -6,6 +6,9 @@
 ## Kalkulačka vytvořená použitím php
 
 
+## kalkulackoss.infinityfreeapp.com
+
+
 1. HTML Struktura:
   - "!DOCTYPE html" definuje typ dokumentu.
   - "html lang="en"" zahajuje HTML dokument s nastavením jazyka na angličtinu.
